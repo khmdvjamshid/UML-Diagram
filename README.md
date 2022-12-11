@@ -8,3 +8,8 @@ University Management System(Homework)
 ### Zoo Management 
 
 ![Screenshot](https://github.com/khmdvjamshid/UML-Diagram/blob/main/Zoo-Management.png)
+
+
+### Flight Management System
+
+![Screenshot](https://github.com/khmdvjamshid/UML-Diagram/blob/main/Flight-Management.png)
