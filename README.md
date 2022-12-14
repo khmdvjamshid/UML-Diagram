@@ -17,3 +17,7 @@ University Management System(Homework)
 ### Online Movie System
 
 ![Screenshot](https://github.com/khmdvjamshid/UML-Diagram/blob/main/Online-Movie-System.png)
+
+### Elevator Simulation
+
+![Screenshot](https://github.com/khmdvjamshid/UML-Diagram/blob/main/Elevator_Simulation.png)
